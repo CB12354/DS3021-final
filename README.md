@@ -6,6 +6,8 @@
 
 ## Overview
 
+NOTE: *This README is not the full response to the project requirements, it is a general description of our findings and a guide to navigating this repo. For the full writeup, go to project-writeup.ipynb.*
+
 Can you predict whether a shipping disruption is likely to occur given features like distance, geopolitical risk, product type, and carrier reliability? This project aims to tackle that question using a dataset of shipments across the world, applying three classification approaches: k-Nearest Neighbors, Logistic Regression, and Decision Trees. These algorithms, together, helped build a practical disruption risk flagging model.
 
 ---
@@ -14,7 +16,7 @@ Can you predict whether a shipping disruption is likely to occur given features 
 
 | Notebook | Description |
 |---|---|
-| `project-draft.ipynb` | General process, best models, and overall conclusions |
+| `project-writeup.ipynb` | General process, best models, and overall conclusions |
 | `KNN.ipynb` | Full k-Nearest Neighbors workflow |
 | `LogisticRegression.ipynb` | Full Logistic Regression workflow |
 | `decision-tree.ipynb` | Full Decision Tree workflow |
