@@ -18,7 +18,7 @@ Can you predict whether a shipping disruption is likely to occur given features 
 |---|---|
 | `project-writeup.ipynb` | General process, best models, and overall conclusions |
 | `KNN.ipynb` | Full k-Nearest Neighbors workflow |
-| `LogisticRegression.ipynb` | Full Logistic Regression workflow |
+| `LogRegression.ipynb` | Full Logistic Regression workflow |
 | `decision-tree.ipynb` | Full Decision Tree workflow |
 | `requirements.txt` | Full list of external libraries |
 | `supply_chain.csv` | Full supply chain data used for all three algorithms and all models |
